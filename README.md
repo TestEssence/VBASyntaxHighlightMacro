@@ -7,7 +7,7 @@ VBA macros intended to:
 - Apply/clear Gherkin Syntax Highlight to/from the selected text in MS Word (or the selected cells in MS EXCEL)
 - Highlights non-ascii characters - it is suggested to replace them with regular ASCII chars
 
-![Macro highlighting result](\img\gherkinHighlightMacro.png)
+![Macro highlighting result](/img/gherkinHighlightMacro.png)
 
 ## Tips to use Word Macro:
 
